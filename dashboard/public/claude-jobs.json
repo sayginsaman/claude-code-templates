@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T09:09:40.890368+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-09-01T08:10:25.799066+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -2050,6 +2050,28 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5125387008",
       "postedAt": "2026-02-19T19:49:54-05:00",
       "tags": [
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5098025008",
+      "company": "Anthropic",
+      "position": "Model Performance Software Engineer, Claude Code",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "We're looking for a Staff Software Engineer to set technical direction at the intersection of engineering and research on the Claude Code team. In this role, you'll partner directly with Anthropic's researchers and engineering leadership to shape how we measure, understand, and improve Claude's...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5098025008",
+      "postedAt": "2026-02-02T17:15:17-05:00",
+      "tags": [
+        "TypeScript",
         "Python",
         "Rust",
         "AWS",
