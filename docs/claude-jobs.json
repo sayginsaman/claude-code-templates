@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-19T07:42:30.758008+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-09-20T08:09:39.948359+00:00",
+  "totalJobs": 90,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -20,26 +20,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5427479008",
       "postedAt": "2026-09-18T18:50:40-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5369102008",
-      "company": "Anthropic",
-      "position": "Engineering Manager, Labs",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "At Anthropic, we're building AI systems that are safe, beneficial, and transformative. Our mission is to develop AI that benefits humanity, and we believe the most powerful capabilities emerge when we thoughtfully bridge the gap between research breakthroughs and real-world applications. Anthropic...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
-      "postedAt": "2026-09-17T20:13:04-04:00",
       "tags": [
         "Rust",
         "AWS",
@@ -89,26 +69,6 @@
         "GraphQL"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5425724008",
-      "company": "Anthropic",
-      "position": "Associate Solutions Architect",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for an Associate Solutions Architect to join our Applied AI team and help drive the adoption of Claude Code across our enterprise customers. As an Associate SA specializing in Claude Code, you'll be the technical bridge between our cutting-edge AI coding assistant and the engineering...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "postedAt": "2026-09-16T12:20:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5421566008",
@@ -647,27 +607,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
       "postedAt": "2026-08-20T15:07:21-04:00",
-      "tags": [
-        "Rust",
-        "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5393526008",
-      "company": "Anthropic",
-      "position": "Product Manager, Cybersecurity ",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "Claude is now good at security work. It finds and fixes vulnerabilities in real codebases, triages alerts, and reasons about how an attacker would move through a system, and it improves with every model we ship. Many security platforms build on Claude and we shipped our first security product this...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5393526008",
-      "postedAt": "2026-08-20T12:35:52-04:00",
       "tags": [
         "Rust",
         "Go",
